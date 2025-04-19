@@ -77,6 +77,21 @@ All visible in the MLflow dashboard at:
 
 ---
 
+## 📊 Model Comparison Results
+
+Both models were trained and evaluated using MLflow:
+
+| Model           | Best Hyperparameters             | MSE     | RMSE    |
+|----------------|----------------------------------|---------|---------|
+| Random Forest  | `max_depth=None`, `n_estimators=50` | 0.2526  | 0.5026  |
+| XGBoost        | `max_depth=5`, `n_estimators=50`    | 0.2321  | 0.4818  |
+
+✅ **XGBoost outperformed Random Forest** in terms of both Mean Squared Error and Root Mean Squared Error, making it the better model on this dataset.
+
+These results are fully tracked and visible in the MLflow dashboard for deeper analysis.
+
+---
+
 ## 📁 Project Structure
 
 ```
