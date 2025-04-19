@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/adiis/Housing%20Data/mlruns/729399550221505116/9fabe7e05a3a4da5bb272f4637b71baf/artifacts
+deleted_time: 1745033179407
+end_time: 1745032674842
+entry_point_name: ''
+experiment_id: '729399550221505116'
+lifecycle_stage: deleted
+run_id: 9fabe7e05a3a4da5bb272f4637b71baf
+run_name: shivering-mole-65
+run_uuid: 9fabe7e05a3a4da5bb272f4637b71baf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745032674785
+status: 4
+tags: []
+user_id: adiis

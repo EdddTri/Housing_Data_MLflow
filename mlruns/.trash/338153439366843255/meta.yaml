@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/338153439366843255
+creation_time: 1745045791597
+experiment_id: '338153439366843255'
+last_update_time: 1745045944427
+lifecycle_stage: deleted
+name: housing_xgb
+tags: {}

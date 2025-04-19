@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/adiis/Housing%20Data/mlruns/729399550221505116/ea73cb1047a54cb0ad635d9c294361d5/artifacts
+deleted_time: 1745034158836
+end_time: 1745033727534
+entry_point_name: ''
+experiment_id: '729399550221505116'
+lifecycle_stage: deleted
+run_id: ea73cb1047a54cb0ad635d9c294361d5
+run_name: bold-sponge-315
+run_uuid: ea73cb1047a54cb0ad635d9c294361d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745033694829
+status: 3
+tags: []
+user_id: adiis

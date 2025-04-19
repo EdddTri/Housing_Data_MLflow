@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/909193317978605649/e3ed53377e0444809144ca7d5bb58705/artifacts
+deleted_time: 1745034894583
+end_time: 1745034199850
+entry_point_name: ''
+experiment_id: '909193317978605649'
+lifecycle_stage: deleted
+run_id: e3ed53377e0444809144ca7d5bb58705
+run_name: aged-crow-514
+run_uuid: e3ed53377e0444809144ca7d5bb58705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745034165051
+status: 3
+tags: []
+user_id: adiis

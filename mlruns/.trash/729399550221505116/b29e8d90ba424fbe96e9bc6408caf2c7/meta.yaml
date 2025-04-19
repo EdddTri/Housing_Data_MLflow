@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/adiis/Housing%20Data/mlruns/729399550221505116/b29e8d90ba424fbe96e9bc6408caf2c7/artifacts
+deleted_time: 1745034158836
+end_time: 1745033043166
+entry_point_name: ''
+experiment_id: '729399550221505116'
+lifecycle_stage: deleted
+run_id: b29e8d90ba424fbe96e9bc6408caf2c7
+run_name: awesome-ram-941
+run_uuid: b29e8d90ba424fbe96e9bc6408caf2c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745033000813
+status: 3
+tags: []
+user_id: adiis

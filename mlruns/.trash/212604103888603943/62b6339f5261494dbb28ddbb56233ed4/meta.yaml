@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/212604103888603943/62b6339f5261494dbb28ddbb56233ed4/artifacts
+deleted_time: 1745045947893
+end_time: 1745045791377
+entry_point_name: ''
+experiment_id: '212604103888603943'
+lifecycle_stage: deleted
+run_id: 62b6339f5261494dbb28ddbb56233ed4
+run_name: adorable-lamb-828
+run_uuid: 62b6339f5261494dbb28ddbb56233ed4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745045762319
+status: 3
+tags: []
+user_id: adiis

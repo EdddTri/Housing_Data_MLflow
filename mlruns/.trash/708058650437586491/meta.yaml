@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/708058650437586491
+creation_time: 1745045093021
+experiment_id: '708058650437586491'
+last_update_time: 1745045127110
+lifecycle_stage: deleted
+name: housing_rf
+tags: {}

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/649085053693498748/3f506f5301604993bd8a9cbd89923c2b/artifacts
+deleted_time: 1745046198085
+end_time: 1745045980772
+entry_point_name: ''
+experiment_id: '649085053693498748'
+lifecycle_stage: deleted
+run_id: 3f506f5301604993bd8a9cbd89923c2b
+run_name: bald-quail-654
+run_uuid: 3f506f5301604993bd8a9cbd89923c2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745045952656
+status: 3
+tags: []
+user_id: adiis

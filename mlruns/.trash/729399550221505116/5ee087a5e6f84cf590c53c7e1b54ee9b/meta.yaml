@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/adiis/Housing%20Data/mlruns/729399550221505116/5ee087a5e6f84cf590c53c7e1b54ee9b/artifacts
+deleted_time: 1745033179409
+end_time: 1745032900822
+entry_point_name: ''
+experiment_id: '729399550221505116'
+lifecycle_stage: deleted
+run_id: 5ee087a5e6f84cf590c53c7e1b54ee9b
+run_name: hilarious-duck-148
+run_uuid: 5ee087a5e6f84cf590c53c7e1b54ee9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745032871376
+status: 4
+tags: []
+user_id: adiis

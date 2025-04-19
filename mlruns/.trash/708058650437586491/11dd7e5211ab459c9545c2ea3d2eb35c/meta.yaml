@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/708058650437586491/11dd7e5211ab459c9545c2ea3d2eb35c/artifacts
+deleted_time: 1745045127110
+end_time: 1745045123156
+entry_point_name: ''
+experiment_id: '708058650437586491'
+lifecycle_stage: deleted
+run_id: 11dd7e5211ab459c9545c2ea3d2eb35c
+run_name: monumental-bat-755
+run_uuid: 11dd7e5211ab459c9545c2ea3d2eb35c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745045093045
+status: 3
+tags: []
+user_id: adiis

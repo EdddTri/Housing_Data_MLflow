@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/adiis/Housing%20Data/mlruns/869495914430245008/62b37321c87a45f58f4299641a6dc693/artifacts
+deleted_time: 1745044239522
+end_time: 1745034938111
+entry_point_name: ''
+experiment_id: '869495914430245008'
+lifecycle_stage: deleted
+run_id: 62b37321c87a45f58f4299641a6dc693
+run_name: welcoming-carp-137
+run_uuid: 62b37321c87a45f58f4299641a6dc693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745034901473
+status: 3
+tags: []
+user_id: adiis

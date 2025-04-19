@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/523949771420815514/a681ee0fe7f04cc29824c038b483c5f9/artifacts
+deleted_time: 1745045646900
+end_time: 1745045164972
+entry_point_name: ''
+experiment_id: '523949771420815514'
+lifecycle_stage: deleted
+run_id: a681ee0fe7f04cc29824c038b483c5f9
+run_name: wistful-colt-681
+run_uuid: a681ee0fe7f04cc29824c038b483c5f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745045130946
+status: 3
+tags: []
+user_id: adiis

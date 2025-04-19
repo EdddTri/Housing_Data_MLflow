@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/adiis/Housing%20Data/mlruns/729399550221505116/7f9144620a73442d8b6da47dcc59dee4/artifacts
+deleted_time: 1745033184093
+end_time: 1745032503856
+entry_point_name: ''
+experiment_id: '729399550221505116'
+lifecycle_stage: deleted
+run_id: 7f9144620a73442d8b6da47dcc59dee4
+run_name: intelligent-elk-86
+run_uuid: 7f9144620a73442d8b6da47dcc59dee4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745032503728
+status: 4
+tags: []
+user_id: adiis

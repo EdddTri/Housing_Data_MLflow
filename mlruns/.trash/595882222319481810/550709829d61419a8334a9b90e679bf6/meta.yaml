@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/595882222319481810/550709829d61419a8334a9b90e679bf6/artifacts
+deleted_time: 1745045757389
+end_time: 1745045695767
+entry_point_name: ''
+experiment_id: '595882222319481810'
+lifecycle_stage: deleted
+run_id: 550709829d61419a8334a9b90e679bf6
+run_name: xgboost_gridsearch
+run_uuid: 550709829d61419a8334a9b90e679bf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745045686521
+status: 4
+tags: []
+user_id: adiis

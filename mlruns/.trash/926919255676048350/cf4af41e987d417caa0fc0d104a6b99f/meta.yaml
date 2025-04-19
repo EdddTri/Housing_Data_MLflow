@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/adiis/Housing%20Data/mlruns/926919255676048350/cf4af41e987d417caa0fc0d104a6b99f/artifacts
+deleted_time: 1745045026265
+end_time: 1745044285286
+entry_point_name: ''
+experiment_id: '926919255676048350'
+lifecycle_stage: deleted
+run_id: cf4af41e987d417caa0fc0d104a6b99f
+run_name: clumsy-lynx-549
+run_uuid: cf4af41e987d417caa0fc0d104a6b99f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745044247344
+status: 3
+tags: []
+user_id: adiis

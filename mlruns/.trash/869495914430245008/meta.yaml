@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Users/adiis/Housing%20Data/mlruns/869495914430245008
+creation_time: 1745034901286
+experiment_id: '869495914430245008'
+last_update_time: 1745044239522
+lifecycle_stage: deleted
+name: housing_rf
+tags: {}

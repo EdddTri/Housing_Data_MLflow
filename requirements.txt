@@ -1,0 +1,7 @@
+mlflow
+numpy>=1.26.0,<2.1.0
+pandas
+scikit-learn
+requests>=2.25.1,<2.26.0
+ipykernel
+Xgboost
